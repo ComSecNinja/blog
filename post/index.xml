@@ -3,7 +3,7 @@
   <channel>
       <title>Posts on ComSec Ninja </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://blog.comsec.ninja/post/</link>
+    <link>http://comsec.ninja/post/</link>
     <language>fi-fi</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>A New Day</title>
-      <link>http://blog.comsec.ninja/post/a-new-day/</link>
+      <link>http://comsec.ninja/post/a-new-day/</link>
       <pubDate>Sun, 01 Nov 2015 05:16:58 EET</pubDate>
       
-      <guid>http://blog.comsec.ninja/post/a-new-day/</guid>
+      <guid>http://comsec.ninja/post/a-new-day/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m migrating my blogging to Github Pages. The old posts from the Ghost blog may
 follow at some point: they&amp;rsquo;re in a sqlite3 database in HTML, so it&amp;rsquo;s not a big
 deal.&lt;/p&gt;
