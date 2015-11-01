@@ -16,8 +16,11 @@
       
       <guid>http://blog.comsec.ninja/post/a-new-day/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m migrating my blogging to Github Pages. The old posts from the Ghost blog may
-follow at some point: they&amp;rsquo;re in a sqlite3 database in HTML, so it&amp;rsquo;s not going
-to happen by finger-snapping magic.&lt;/p&gt;
+follow at some point: they&amp;rsquo;re in a sqlite3 database in HTML, so it&amp;rsquo;s not a big
+deal.&lt;/p&gt;
+
+&lt;p&gt;So I&amp;rsquo;m trying out this [Hugo]() &amp;ldquo;platform&amp;rdquo;: a static site generator written in
+Go. Go is the language I&amp;rsquo;ve been mostly working on this year and I&amp;rsquo;m lovin&amp;rsquo; it.&lt;/p&gt;
 </description>
     </item>
     
