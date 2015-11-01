@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ComSec Ninja</title>
+      <title> on ComSec Ninja </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
     <link>http://comsec.ninja/</link>
-    <description>Recent content on ComSec Ninja</description>
-    <generator>Hugo -- gohugo.io</generator>
     <language>fi-fi</language>
-    <lastBuildDate>Sun, 01 Nov 2015 05:16:58 +0200</lastBuildDate>
-    <atom:link href="http://comsec.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <updated>Sun, 01 Nov 2015 05:16:58 EET</updated>
     
     <item>
       <title>A New Day</title>
       <link>http://comsec.ninja/post/a-new-day/</link>
-      <pubDate>Sun, 01 Nov 2015 05:16:58 +0200</pubDate>
+      <pubDate>Sun, 01 Nov 2015 05:16:58 EET</pubDate>
       
       <guid>http://comsec.ninja/post/a-new-day/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m migrating my blogging to Github Pages. The old posts from the Ghost blog may
